@@ -44,9 +44,15 @@ h2  {
     margin-left: 570px;
     margin-right: 570px;
 }
-
-#link {
+    
+   #cabecalho {
     text-align: center;
+    background: greenyellow;
+    border-bottom: solid;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+}
 
 
     
